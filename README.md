@@ -1,7 +1,7 @@
 # Template Project
 This is a template project for a rocket.
 This template header should be deleted once file have been added to the repository
-# PROJECT NAME
+# Jeff Modular Rocket System
 ## Specifications
 | Property | Value |
 |----------|-------|
